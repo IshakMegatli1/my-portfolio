@@ -1,7 +1,7 @@
 export default function Contact() {
     return (
         
-      <section className="py-20 px-6 bg-blue-50 text-center">
+      <section className="py-20 px-6 text-center bg-[#F4F4F4] rounded-lg">
         <h3 className="text-3xl font-bold mb-4">Want to collaborate ?</h3>
         <p className="text-gray-700 mb-6 max-w-xl mx-auto">
           I'm open to internships, part-time and learning opportunities. Let's create something great !
