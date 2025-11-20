@@ -1,7 +1,7 @@
 export default function About() {
   return (
 
-      <section id="about" className="py-16 px-6 bg-[#F4F4F4] rounded-lg">
+      <section id="about" className="py-12 px-6 bg-[#F4F4F4] rounded-lg">
         <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
           <div className="bg-white text-center p-6 border rounded-lg shadow hover:shadow-lg transition">
             <h3 className="text-2xl font-bold mb-2">OOP Development</h3>

@@ -2,7 +2,7 @@ export default function Navbar(){
     return (
         <nav className="fixed top-0 left-0 right-0 z-50 rounded-lg bg-[#F4F4F4] shadow-md">
         <div className="container mx-auto flex justify-between items-center py-4 px-6">
-          <h1 className="text-2xl font-bold text-bg-[#0C2B4E]">Ishak</h1>
+          <h1 className="text-2xl font-bold text-bg-[#0C2B4E]"></h1>
 
           <div className="flex items-center gap-6">
             <ul className="flex gap-6">

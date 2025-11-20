@@ -1,6 +1,6 @@
 export default function Technol() {
   return (
-    <section id="tech" className=" rounded-lg py-8 px-6 bg-[#F4F4F4]">
+    <section id="tech" className=" rounded-lg pt-6 pb-10 px-6 bg-[#F4F4F4]">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold text-center mb-12">Technologies</h2>
         

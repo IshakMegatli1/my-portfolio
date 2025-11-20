@@ -8,6 +8,7 @@ import Contact from "./Contact";
 import Navbar from "./Navbar";
 import Hero from "./Hero.jsx";
 import Technol from './Technol.jsx';
+import Certification from './Certification.jsx';
 
 
 
@@ -23,6 +24,8 @@ function App() {
       <Hero/>
 
       <section className="pt-0 pb-8 px-0 bg-white"><Projects /></section>
+
+      <section className="pb-8 bg-white"><Certification /></section>
       
       
       <section ><Technol /></section>
