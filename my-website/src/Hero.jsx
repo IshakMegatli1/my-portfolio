@@ -6,7 +6,7 @@ export default function Hero(){
         {/* Text + Logo inline */}
         <div className="flex items-center justify-center gap-2 mb-2">
           <p className="text-xl text-gray-700">
-            I am a COOP Software engineering student at
+            I am a 3rd year COOP Software engineering student at
           </p>
           <img
             src="/Logo_ETS_TypoGrise_D_FR.png"

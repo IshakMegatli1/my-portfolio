@@ -8,7 +8,7 @@ export default function Projects() {
         <div className="bg-white rounded-xl shadow-lg p-6 hover:shadow-2xl transition-shadow flex flex-col">
           <h3 className="text-2xl font-semibold mb-3">Disk-launching robot</h3>
           <p className="text-gray-700 mb-4 flex-grow">
-            ESP32-based temperature and humidity monitor displayed on an ILI9341 screen.
+            Designed, programmed and built a remote controlled disk-launching robot using SolidWorks, AutoCad, C, microcontrollers, and sensors.
           </p>
           <div className="flex justify-center mt-auto">
             <a 
@@ -24,7 +24,7 @@ export default function Projects() {
         <div className="bg-white rounded-xl shadow-lg p-6 hover:shadow-2xl transition-shadow flex flex-col">
           <h3 className="text-2xl font-semibold mb-3">Moodle-like school app</h3>
           <p className="text-gray-700 mb-4 flex-grow">
-            Chrome extension that tracks study sessions and logs time spent in a document.
+           Built with TypeScript, Pug, and Node.js, a web application that replicates key Moodle features, including course management and student–teacher interactions.
           </p>
           <div className="flex justify-center mt-auto">
             <a 
@@ -40,7 +40,7 @@ export default function Projects() {
         <div className="bg-white rounded-xl shadow-lg p-6 hover:shadow-2xl transition-shadow flex flex-col">
           <h3 className="text-2xl font-semibold mb-3">Ultimate 9x9 TicTacToe AI</h3>
           <p className="text-gray-700 mb-4 flex-grow">
-            PostgreSQL-based inventory system with product tracking and UI features.
+            Built an AI for Ultimate 9x9 TicTacToe using the Minimax algorithm with alpha-beta pruning in Java, achieving optimal gameplay against human opponents.
           </p>
           <div className="flex justify-center mt-auto">
             <a 
